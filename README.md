@@ -1,3 +1,5 @@
+# This repo is archived as-of 5/28/2020
+
 # Swagger UI
 
 [![NPM version](https://badge.fury.io/js/swagger-ui.svg)](http://badge.fury.io/js/swagger-ui)
